@@ -3,8 +3,8 @@ Model-measurements comparison of biomass burning aerosol
 over West Africa
 
 # Authors
-Gerard Cabes
 John Smith
+Gerard Cabes
 
 # Introduction
 BBOA are important for the radiative effect
