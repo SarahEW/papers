@@ -6,6 +6,9 @@ over West Africa
 John Smith, University of Elsewhere
 Gerard Cabes, University of Manchester
 
+# Abstract
+Layman's description of paper.
+
 # Introduction
 BBOA are important for the radiative effect
 but the magnitude and even direction are unclear
