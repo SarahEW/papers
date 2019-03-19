@@ -33,6 +33,10 @@ This is a draft so the figures go in their own section.
 # Appendix
 Non-essential, some people have this removed.
 
+
+# Tables
+Non-essential tables
+
 # Conclusions
 We did some science and it was great. More science
 needs to happen, so funding should be applied for.
