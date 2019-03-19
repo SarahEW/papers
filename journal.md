@@ -33,6 +33,8 @@ This is a draft so the figures go in their own section.
 # Appendix
 Non-essential, some people have this removed.
 
+# Acknowledgements
+Thanks to Research IT for teaching me how to use git.
 
 # Tables
 Non-essential tables
