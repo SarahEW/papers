@@ -29,3 +29,7 @@ of the particles.
 
 # Figures
 This is a draft so the figures go in their own section.
+
+# Conclusions
+We did some science and it was great. More science
+needs to happen, so funding should be applied for.
