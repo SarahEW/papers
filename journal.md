@@ -36,3 +36,7 @@ Non-essential, some people have this removed.
 # Conclusions
 We did some science and it was great. More science
 needs to happen, so funding should be applied for.
+
+# Future Work
+Here is some work I haven't done yet that should be
+done.
