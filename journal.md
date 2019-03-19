@@ -13,3 +13,7 @@ see Haywood et al (Haywood 200).
 Our measurements set out to add this
 body of knowledge using Mass Spectrometer data
 (Allan et all 2001).
+
+# Simulations
+John's box model is consistant with coagulation
+as the dominant growth mechanism.
