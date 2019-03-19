@@ -6,4 +6,7 @@ over West Africa
 Gerard Cabes
 
 # Introduction
-BBOA are important for the radiative effect but the magnitude and even distribution.
+BBOA are important for the radiative effect but the magnitude and even direction are unclear
+see Haywood et al (Haywood 200).
+Our measurements set out to add this
+body of knowledge.
